@@ -1,0 +1,5 @@
+#VS ignore files
+
+.vs/
+bin/
+obj/
